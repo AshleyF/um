@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="spoilers.md" />
     <Content Include="umix.um">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
