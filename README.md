@@ -1,2 +1,11 @@
-# um
-Ancient sandstone computer running UMIX
+# UM
+
+Your [task](http://boundvariable.org/task.shtml), should you choose to accept it, is to explore and unravel the mysteries of the codex.
+
+* `codex.umz` is the original codex ([from here](http://boundvariable.org/codex.umz))
+* [`um.fs`](./blob/master/um.fs) is a 30-line implementation of an ancient sandstone computer (following [this "Rosetta Stone"](http://boundvariable.org/um-spec.txt))
+* `sandmark.umz` is a machine test and benchmark ([from here](http://boundvariable.org/codex.umz))
+* `umix.um` is decrypted codex (using the key `(\b.bb)(\v.vv)06FHPVboundvarHRAk`), ready to boot the UMIX operating system
+* `um.um` is a meta-circular implementation of the machine ([from here](http://boundvariable.org/um.um))
+
+Have fun!
